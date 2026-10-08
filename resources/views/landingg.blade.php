@@ -7,6 +7,6 @@
     <title>Landing Page</title>
 </head>
 <body>
-    <h1>Welcome to My Application</h1>
+    <h1>Welcom</h1>
 </body>
 </html>
